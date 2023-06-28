@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabio.vaz\\Desktop\\c#\\LeituraTecladoCSharp\\LeituraTeclado.csproj": {}
+    "c:\\Users\\fabio.vaz\\Desktop\\c#\\LeituraTecladoCSharp\\LeituraTeclado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabio.vaz\\Desktop\\c#\\LeituraTecladoCSharp\\LeituraTeclado.csproj": {
+    "c:\\Users\\fabio.vaz\\Desktop\\c#\\LeituraTecladoCSharp\\LeituraTeclado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio.vaz\\Desktop\\c#\\LeituraTecladoCSharp\\LeituraTeclado.csproj",
+        "projectUniqueName": "c:\\Users\\fabio.vaz\\Desktop\\c#\\LeituraTecladoCSharp\\LeituraTeclado.csproj",
         "projectName": "LeituraTeclado",
-        "projectPath": "C:\\Users\\fabio.vaz\\Desktop\\c#\\LeituraTecladoCSharp\\LeituraTeclado.csproj",
+        "projectPath": "c:\\Users\\fabio.vaz\\Desktop\\c#\\LeituraTecladoCSharp\\LeituraTeclado.csproj",
         "packagesPath": "C:\\Users\\fabio.vaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio.vaz\\Desktop\\c#\\LeituraTecladoCSharp\\obj\\",
+        "outputPath": "c:\\Users\\fabio.vaz\\Desktop\\c#\\LeituraTecladoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabio.vaz\\AppData\\Roaming\\NuGet\\NuGet.Config"
