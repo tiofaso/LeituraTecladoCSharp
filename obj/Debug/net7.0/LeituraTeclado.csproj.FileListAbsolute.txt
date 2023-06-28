@@ -1,0 +1,15 @@
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\bin\Debug\net7.0\LeituraTeclado.exe
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\bin\Debug\net7.0\LeituraTeclado.deps.json
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\bin\Debug\net7.0\LeituraTeclado.runtimeconfig.json
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\bin\Debug\net7.0\LeituraTeclado.dll
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\bin\Debug\net7.0\LeituraTeclado.pdb
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\obj\Debug\net7.0\LeituraTeclado.csproj.AssemblyReference.cache
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\obj\Debug\net7.0\LeituraTeclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\obj\Debug\net7.0\LeituraTeclado.AssemblyInfoInputs.cache
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\obj\Debug\net7.0\LeituraTeclado.AssemblyInfo.cs
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\obj\Debug\net7.0\LeituraTeclado.csproj.CoreCompileInputs.cache
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\obj\Debug\net7.0\LeituraTeclado.dll
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\obj\Debug\net7.0\refint\LeituraTeclado.dll
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\obj\Debug\net7.0\LeituraTeclado.pdb
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\obj\Debug\net7.0\LeituraTeclado.genruntimeconfig.cache
+C:\Users\fabio.vaz\Desktop\c#\LeituraTecladoCSharp\obj\Debug\net7.0\ref\LeituraTeclado.dll
